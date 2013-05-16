@@ -2,4 +2,8 @@
 
 [ExtensionSettings]
 DesignExtensions[]=nxc_social_networks
+
+[StylesheetSettings]
+BackendCSSFileList[]=nxc_social_networks.css
+
 */ ?>

@@ -30,8 +30,8 @@ Secret=a00a3aec0c7bebb97b57f93800b2dab1
 # Set the following application settings
 # - Access level = Read and write
 [TwitterApplication]
-Key=cRACdvBvd74Bw4gtqtlQ
-Secret=jD81UH24wXP9f8UscgQbqaqVzbHIxKagadb5BZCwcg
+Key=QRVRPR0PrM2fRGPNhBRrA
+Secret=4h5kqkasB6M0ZMHLPyYL3NMdTOAZb2rDmZVcebM7qo
 
 # New application can be created at https://www.linkedin.com/secure/developer
 # Set the following application settings

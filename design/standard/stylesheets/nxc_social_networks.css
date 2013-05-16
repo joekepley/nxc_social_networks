@@ -18,3 +18,6 @@ table.list td.nxc-social-network-td-container { padding: 10px; vertical-align: t
 table.list label.nxc-social-network-attribute-header, label.nxc-social-network-attribute-header { font-weight: bold; padding-bottom: 5px; color: #333; }
 table.nxc-social-network-attribute-list { margin-bottom: 10px;}
 .nxc-social-network-attribute-controlbar { padding-bottom: 10px;}
+
+div.block.social-accounts { margin-bottom: 2em; }
+.social-accounts img { vertical-align: middle; margin-bottom: 3px; }
